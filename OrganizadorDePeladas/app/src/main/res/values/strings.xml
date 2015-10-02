@@ -1,6 +1,10 @@
 <resources>
     <string name="app_name">Organizador de Peladas</string>
 
-    <string name="hello_world">Hello world!</string>
+    <string name="player_name">Nome Jogador</string>
+    <string name="player_number">Número Jogador</string>
+    <string name="button_insert">Salvar</string>
     <string name="action_settings">Settings</string>
+
+    <string name="hello_world">Hello world!</string>
 </resources>
